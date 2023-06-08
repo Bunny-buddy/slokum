@@ -1,2 +1,2 @@
-# slokum
+# slokam
 devops
